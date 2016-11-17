@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CompiledBindingTest/CompiledBindingTest/bin/x86/Debug
+/CompiledBindingTest/CompiledBindingTest/obj
+/CompiledBindingTest/.vs/CompiledBindingTest/v14
+/CompiledBindingTest/CompiledBindingTest/Properties
